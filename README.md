@@ -1,2 +1,4 @@
 # docker-kudu
-docker to create a install of kudu
+[Apache Kudu] Docker build 
+
+[Apache Kudu]:https://kudu.apache.org/
